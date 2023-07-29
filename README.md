@@ -14,7 +14,7 @@
 - 💬 Ask me about **HTML5,CSS3,Tailwind,Bootstrap,JavaScript**
 
 - 📫 How to reach me **medisahamzehdev@gmail.com**
-- - 📫 How to reach me 2 **medisayep@gmail.com**
+-  📫 How to reach me 2 **medisayep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
