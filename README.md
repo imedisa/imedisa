@@ -1,6 +1,6 @@
-
+[!MasterHead](https://media.licdn.com/dms/image/D4E16AQEUHZYCDWIdLg/profile-displaybackgroundimage-shrink_350_1400/0/1677348775099?e=1695859200&v=beta&t=GJpG2TKjVxQ2F0l6rwhfYVSxnDxcp6tPkQyDxgeTaOs)
 <h1 align="center">Hi 👋, I'm Medisa Hamzeh</h1>
-<h3 align="center">A passionate frontend developer from Iran</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="400"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imedisa&label=Profile%20views&color=0e75b6&style=flat" alt="imedisa" /> </p>
@@ -14,6 +14,7 @@
 - 💬 Ask me about **HTML5,CSS3,Tailwind,Bootstrap,JavaScript**
 
 - 📫 How to reach me **medisahamzehdev@gmail.com**
+- - 📫 How to reach me 2 **medisayep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
