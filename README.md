@@ -7,14 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a></p>
 
-- 🌱 I’m currently learning **Vue.js**
-
-- 👨‍💻 All of my projects are available at [imedisa.github.io/Portfolio](imedisa.github.io/Portfolio)
-
-- 💬 Ask me about: **HTML5,CSS3,Tailwind,Bootstrap,JavaScript**
-
-- 📫 How to reach me **medisahamzehdev@gmail.com**
-
+- 📫 How to reach me **medisahamzehdev@gmail.com** &
+- **medisayep@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
